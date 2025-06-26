@@ -1,9 +1,9 @@
-package com.yourname.smarthealth.viewmodel
+package com.mrprateek.smarthealth.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.yourname.smarthealth.data.model.HealthReading
-import com.yourname.smarthealth.data.repository.HealthRepository
+import com.mrprateek.smarthealth.data.model.HealthReading
+import com.mrprateek.smarthealth.data.repository.HealthRepository
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
 

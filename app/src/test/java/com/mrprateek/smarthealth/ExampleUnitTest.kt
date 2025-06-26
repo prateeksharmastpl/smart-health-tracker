@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.mrprateek.smarthealth
 
 import org.junit.Test
 

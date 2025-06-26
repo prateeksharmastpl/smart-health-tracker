@@ -1,4 +1,4 @@
-package com.yourname.smarthealth.ble
+package com.mrprateek.smarthealth.ble
 
 import android.bluetooth.*
 import android.bluetooth.le.*

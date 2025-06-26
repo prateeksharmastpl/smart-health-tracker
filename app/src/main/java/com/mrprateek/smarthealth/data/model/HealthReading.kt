@@ -1,4 +1,4 @@
-package com.yourname.smarthealth.data.model
+package com.mrprateek.smarthealth.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

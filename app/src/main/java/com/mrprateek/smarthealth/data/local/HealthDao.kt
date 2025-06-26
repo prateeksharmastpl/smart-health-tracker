@@ -1,7 +1,7 @@
-package com.yourname.smarthealth.data.local
+package com.mrprateek.smarthealth.data.local
 
 import androidx.room.*
-import com.yourname.smarthealth.data.model.HealthReading
+import com.mrprateek.smarthealth.data.model.HealthReading
 import kotlinx.coroutines.flow.Flow
 
 @Dao

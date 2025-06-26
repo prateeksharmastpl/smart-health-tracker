@@ -1,7 +1,7 @@
-package com.yourname.smarthealth.data.repository
+package com.mrprateek.smarthealth.data.repository
 
-import com.yourname.smarthealth.data.local.HealthDao
-import com.yourname.smarthealth.data.model.HealthReading
+import com.mrprateek.smarthealth.data.local.HealthDao
+import com.mrprateek.smarthealth.data.model.HealthReading
 import kotlinx.coroutines.flow.Flow
 
 class HealthRepository(private val dao: HealthDao) {

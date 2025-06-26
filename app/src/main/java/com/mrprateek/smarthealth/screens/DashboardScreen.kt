@@ -1,4 +1,4 @@
-package com.yourname.smarthealth.ui.screens
+package com.mrprateek.smarthealth.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
