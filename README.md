@@ -56,7 +56,7 @@ _👉 Add screenshots or GIFs of dashboard, history, graph view here_
 ## 🛠️ How to Run
 
 1. Clone the repository  
-   `git clone https://github.com/yourname/smart-health-tracker.git`
+   `git clone https://github.com/prateeksharmastpl/smart-health-tracker.git`
 
 2. Open in **Android Studio Hedgehog or newer**
 
